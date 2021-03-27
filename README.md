@@ -1,13 +1,36 @@
 <h1>👋<strong>Hello</strong></h1><br>
+<h1>👋<strong>Hello</strong></h1><br>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="css\styles.css">
+  <style>
+    body {
+  background-color: #EAF6F6;
+}
+    h1 {
+  color: #66BFBF
+}
+    h3 {
+  color: #66BFBF
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.prof{
+width: 25%;
+
+}
+        </style>
 </head>
 
-<body>
+<body background-color: #EAF6F6;>
   <table cellspacing="20">
     <tr>
       <td><img class="prof" src="IMG_20210222_180247.jpg" alt="Hail REX"></td>
@@ -50,4 +73,3 @@
 </body>
 
 </html>
-
