@@ -4,8 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title></title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="iiit-kota/styles.css">
 </head>
 
 <body>
