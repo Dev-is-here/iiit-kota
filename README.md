@@ -1,11 +1,9 @@
 <h1>👋<strong>Hello</strong></h1><br>
-<h1>👋<strong>Hello</strong></h1><br>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="css\styles.css">
   <style>
     body {
   background-color: #EAF6F6;
