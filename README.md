@@ -1,33 +1,8 @@
 <h1>👋<strong>Hello</strong></h1><br>
-<head>
-  <style>
-    body {
-  background-color: #EAF6F6;
-}
-    h1 {
-  color: #66BFBF
-}
-    h3 {
-  color: #66BFBF
-}
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 5%;
-}
-.prof{
-width: 25%;
-
-}
-        </style>
-</head>
-
 <body >
   <table cellspacing="20">
     <tr>
-      <td><img class="prof" src="IMG_20210222_180247.jpg" alt="Hail REX"></td>
+      <td><img class="prof" src="IMG_20210222_180247.jpg" alt="Hail REX" width="400" height="400"></td>
       <td>
         <h1>I am Kunal Verma</h1>
         <p><em>UnderGraduate at IIIT-Kota, 2020-2024</em></p>
