@@ -1,9 +1,7 @@
 <h1>👋<strong>Hello</strong></h1><br>
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
 
 <head>
-  <meta charset="utf-8">
   <style>
     body {
   background-color: #EAF6F6;
