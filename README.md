@@ -1,9 +1,3 @@
-<p align="center">
-  <img class="prof" src="IIIT-_Kota_Logo_white.png">
-</p>
-<p align="center">
-  <strong>Indian Institute Of Information Technology, Kota</strong>
-</p>
 <h1>👋<strong>Hello</strong></h1><br>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
