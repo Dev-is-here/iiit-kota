@@ -1,6 +1,4 @@
 <h1>👋<strong>Hello</strong></h1><br>
-<!DOCTYPE html>
-
 <head>
   <style>
     body {
@@ -26,7 +24,7 @@ width: 25%;
         </style>
 </head>
 
-<body background-color: #EAF6F6;>
+<body >
   <table cellspacing="20">
     <tr>
       <td><img class="prof" src="IMG_20210222_180247.jpg" alt="Hail REX"></td>
